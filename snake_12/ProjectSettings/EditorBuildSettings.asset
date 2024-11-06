@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BoardGame.unity
+    guid: da78ed021380c0c4795a886f3176eae6
+  - enabled: 1
+    path: Assets/NewGameMenu.unity
+    guid: c67a82ca2c41e9542ad962d6f2d0a6dd
+  - enabled: 1
+    path: Assets/HomeMenu.unity
+    guid: 6acf080ccdfa7ae42aca40f7aceddbf6
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: a52decbcbe7160743b8c2a5d817d8e9f
+  - enabled: 1
+    path: Assets/Reg.unity
+    guid: 2e81b571633d9a84980bb80e66f5fc1b
+  - enabled: 0
+    path: Assets/snake.unity
+    guid: 3049821e81d0175458ee280ce3aa9830
+  - enabled: 1
+    path: Assets/LoginAcc.unity
+    guid: bb154fa89c1a9ad4cb8a322653515820
+  - enabled: 1
+    path: Assets/Pause.unity
+    guid: e1a21e1deb0b5034a9e40aede65d0690
+  - enabled: 0
+    path: Assets/Level2.unity
+    guid: 50143cb65de0e2a4d8050089728924b9
+  - enabled: 1
+    path: Assets/background.unity
+    guid: 5045eb5a1a8a7cf44a825663d6096e6e
+  - enabled: 1
+    path: Assets/Settings.unity
+    guid: 592d57760773c3648bead55efd261521
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dd390b2012d969442bba8dc971472cda, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0e5d38867b9dbaf47ada05f22fa5a9e7, type: 2}
